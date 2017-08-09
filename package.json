@@ -1,0 +1,19 @@
+{
+  "name": "myelectron",
+  "version": "1.0.0",
+  "description": "Electron app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtvidyashree/myElectron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtvidyashree/myElectron/issues"
+  },
+  "homepage": "https://github.com/dtvidyashree/myElectron#readme"
+}
